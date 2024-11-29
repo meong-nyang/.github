@@ -197,30 +197,30 @@ Library
 
 ## 화면 구현, 코드 리뷰
 ### 사용자 화면
+상품조회 - 카테고리별 상품 조회
+![상품카테고리별조회](https://github.com/user-attachments/assets/04f5d5ed-5e76-4146-9e16-0991abc94275)
+
+상품조회 - 상품상세조회
+![상품상세조회](https://github.com/user-attachments/assets/5b7f223c-02e4-4f3e-8cf9-944e33b10016)
+
 상품검색 - 상품 검색
 ![상품검색](https://github.com/user-attachments/assets/f51e7b9f-699a-4455-89c1-45c37e66a85d)
-
-상품결제 - 상품 결제
-![상품결제](https://github.com/user-attachments/assets/7817b5fe-717b-43b5-abbe-f8697c20e243)
 
 장바구니2 - 장바구니
 ![장바구니2](https://github.com/user-attachments/assets/29ec6c6d-191c-4a60-9a55-0d9c3567508f)
 
-정보수정 - 사용자 정보 조회 및 수정
-![정보수정](https://github.com/user-attachments/assets/3f238053-f46c-479d-b7c0-0fa248b60294)
+상품결제 - 상품 결제
+![상품결제](https://github.com/user-attachments/assets/7817b5fe-717b-43b5-abbe-f8697c20e243)
 
 주문내역조회 - 주문내역 조회 및 결제취소, 구매확정
 ![주문내역조회](https://github.com/user-attachments/assets/db13153f-581f-41aa-846d-46faf61f076f)
 
-### 관리자 화면
-고객관리 - 고객 검색 및 상세조회
-![고객관리](https://github.com/user-attachments/assets/b7a346c7-6fdc-47fb-803d-ca6c25992d7b)
+정보수정 - 사용자 정보 조회 및 수정
+![정보수정](https://github.com/user-attachments/assets/3f238053-f46c-479d-b7c0-0fa248b60294)
 
+### 관리자 화면
 대시보드 - 실시간 매출 현황, 주문현황, 재고현황, 통계 요약보기 
 ![대시보드](https://github.com/user-attachments/assets/97317ef4-e1f7-4a60-a3b3-3a406f09f757)
-
-사이트 설정 - 사이트 설정 수정 기능(로고, 상호명, 배송비 등)
-![사이트설정](https://github.com/user-attachments/assets/9765739a-c54e-4a57-920f-15e2305ce704)
 
 상품관리(검색 및 상세조회) - 등록된 상품 검색 및 상세조회
 ![상품관리(검색 및 상세조회)](https://github.com/user-attachments/assets/cc030782-635a-4703-bafb-68997ac1f9be)
@@ -228,22 +228,26 @@ Library
 상품관리(등록) - 상품 등록
 ![상품관리(등록)](https://github.com/user-attachments/assets/dc3777f4-08c5-4c08-91a3-fd81850c1381)
 
+상품관리(수정) - 등록된 상품 수정
+![상품수정](https://github.com/user-attachments/assets/e2747382-ba69-470b-853e-29bb5e1c6c74)
+
+상품관리(삭제) - 등록된 상품 삭제
+![상품삭제](https://github.com/user-attachments/assets/7fff5c93-e2cf-4f55-bcf5-cc2d125a87b0)
+
 재고관리 - 등록된 상품 재고 검색 및 상세조회, 입출고 관리
 ![재고관리](https://github.com/user-attachments/assets/0e896a28-f0f5-4b5a-9900-9ca46e36e9bd)
 
 주문관리 - 주문내역 검색 및 상세 조회
 ![주문관리](https://github.com/user-attachments/assets/fc444be4-c2fd-4b2a-97da-ee5b308aa770)
 
+고객관리 - 고객 검색 및 상세조회
+![고객관리](https://github.com/user-attachments/assets/b7a346c7-6fdc-47fb-803d-ca6c25992d7b)
+
 통계 - 날짜별 매출액 및 환불액 조회
 ![통계](https://github.com/user-attachments/assets/c18794d9-f528-4b6c-9430-377b1e5d3e3f)
 
-
-
-상품조회 - 카테고리별 상품 조회 및 상세조회 기능
-
-상품관리(수정, 삭제) - 등록된 상품 수정 및 삭제 기능
-
-
+사이트 설정 - 사이트 설정 수정 기능(로고, 상호명, 배송비 등)
+![사이트설정](https://github.com/user-attachments/assets/9765739a-c54e-4a57-920f-15e2305ce704)
 
 <br/>
 <br/>
