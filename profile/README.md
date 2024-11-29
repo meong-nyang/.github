@@ -197,8 +197,10 @@ Library
 
 ## 화면 구현, 코드 리뷰
 ### 사용자 화면
-상품조회 - 카테고리별 상품 조회
-![상품카테고리별조회](https://github.com/user-attachments/assets/04f5d5ed-5e76-4146-9e16-0991abc94275)
+<details>
+    <summary>상품조회 - 카테고리별 상품 조회</summary>
+    ![상품카테고리별조회](https://github.com/user-attachments/assets/04f5d5ed-5e76-4146-9e16-0991abc94275)
+</details>
 
 상품조회 - 상품상세조회
 ![상품상세조회](https://github.com/user-attachments/assets/5b7f223c-02e4-4f3e-8cf9-944e33b10016)
