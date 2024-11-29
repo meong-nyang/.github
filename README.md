@@ -151,14 +151,17 @@ Library
 <br/>
 
 ## ERD
-issue만들어서 이미지 넣고 경로 지정해주기
+![image40](https://github.com/user-attachments/assets/e2978ffc-9778-4e86-9c56-e8ca436a6250)
 
 <br/>
 <br/>
 <br/>
 
 ## 메뉴 구조도
-issue만들어서 이미지 넣고 경로 지정해주기
+![메뉴구조도(관리자)_1](https://github.com/user-attachments/assets/63d3a643-107f-4e9d-b303-6c75cf3a4612)
+![메뉴구조도(관리자)_2](https://github.com/user-attachments/assets/13cdf09b-d29a-40c9-bd10-1d731cf833d8)
+![메뉴구조도(사용자)_1](https://github.com/user-attachments/assets/afdfc174-f07d-4597-8a90-5cc345b1e515)
+![메뉴구조도(사용자)_2](https://github.com/user-attachments/assets/18757206-cfbc-4806-90aa-b597181ec794)
 
 <br/>
 <br/>
