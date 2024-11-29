@@ -135,7 +135,16 @@ Library
 <br/>
 
 ## API 명세서
-issue만들어서 이미지 넣고 경로 지정해주기
+<img width="625" alt="image30" src="https://github.com/user-attachments/assets/301ace2d-8f3f-4ce4-9b90-222b99358471">
+<img width="614" alt="image31" src="https://github.com/user-attachments/assets/feff712b-1a82-41d8-8c8a-3be6e14a0ddb">
+<img width="614" alt="image32" src="https://github.com/user-attachments/assets/f3ca1b92-9794-4de7-92f8-b03926706eda">
+<img width="612" alt="image33" src="https://github.com/user-attachments/assets/44c679d3-62ed-4ad6-be7b-57eafdfff51c">
+<img width="615" alt="image34" src="https://github.com/user-attachments/assets/0c628dd0-ad47-49a7-a52d-77310304e6f2">
+<img width="611" alt="image35" src="https://github.com/user-attachments/assets/606f4018-6293-4ab4-b745-5655d7ba7b1c">
+<img width="613" alt="image36" src="https://github.com/user-attachments/assets/4bc87842-7c75-4da6-82d8-dea0a58715b8">
+<img width="611" alt="image37" src="https://github.com/user-attachments/assets/3555723a-5f2d-494e-b898-5fc47a4bdc6f">
+<img width="617" alt="image38" src="https://github.com/user-attachments/assets/77d79479-c8c5-495a-bd2f-49af4cc85b7c">
+<img width="576" alt="image39" src="https://github.com/user-attachments/assets/aab0df71-fd9a-476c-a4b0-75c64b60c23d">
 
 <br/>
 <br/>
