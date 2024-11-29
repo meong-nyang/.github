@@ -88,9 +88,7 @@
 
 ## 개발 도구
 ### IDE
-<img src="https://img.shields.io/badge/vscode-007396?style=for-the-badge&logo=vscode&logoColor=white">
-<img src="https://img.shields.io/badge/IntelliJ-black?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
-<img src="https://img.shields.io/badge/mysql workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/vscode-007396?style=for-the-badge&logo=vscode&logoColor=white"> <img src="https://img.shields.io/badge/IntelliJ-black?style=for-the-badge&logo=intellij-idea&logoColor=white"/> <img src="https://img.shields.io/badge/mysql workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
 ### Language
 <img src="https://img.shields.io/badge/java-f89820?style=for-the-badge&logo=java&logoColor=white">
